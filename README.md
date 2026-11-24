@@ -1,2 +1,2 @@
 # Lurker-io-PRO-guide
-HI, This is a guide for beginners playing this game. This guide include Game Mechanics Tips &amp; Tricks to have a edge in fight. I also add video support for better understanding. This will also explain how to tackle really hard situations. Hope u find it valuable :).
+HI, This is a guide for beginners playing this game. This guide include Game Mechanics Tips &amp; Tricks to have a edge in fight. I also add video support for better understanding. This will also explain how to tackle really hard situations. Hope u find it valuable :).I also thank AethericNebula becuz of whom i got idea to create this guide but this is independently made by me. Hope u visit his also.(https://github.com/aethernebula2-prog/lurkers.io-leaderboard).
